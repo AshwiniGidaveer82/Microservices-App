@@ -1,7 +1,7 @@
 {
     "name": "microservices-app",
     "version": "1.0.0",
-    "description": "Simple Node.js Microservice",
+    "description": "Node Microservice App",
     "main": "app.js",
     "scripts": {
         "start": "node app.js"
